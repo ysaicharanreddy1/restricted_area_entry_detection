@@ -1,0 +1,36 @@
+# Restricted Area Entry Detection System
+
+## Language
+
+* Python
+
+## Libraries and Modules Used
+
+* **OpenCV**
+* winsound
+* keyboard
+* threading
+* time
+
+## Features
+
+1. **Motion Detection**
+
+   * When motion is detected, the alarm starts automatically.
+
+2. **Temporary Alarm Stop**
+
+   * Press the **Enter** key to stop the alarm.
+   * If motion is detected again, the alarm will start again automatically.
+   * Press **Enter** again whenever you want to temporarily stop the alarm.
+
+3. **Enable/Disable Alarm System**
+
+   * Press the **s** key to disable the alarm system. While disabled, motion can still be detected, but the alarm will not ring.
+   * Press the **s** key again to enable the alarm system. If motion is detected, the alarm will ring normally.
+
+4. **Exit the Application**
+
+   * Press the **q** key to quit the application.
+  
+Name : Sai Charan Reddy
