@@ -32,5 +32,7 @@
 4. **Exit the Application**
 
    * Press the **q** key to quit the application.
-  
+
+# NOTE : This is a basic-to-moderate level real-world project that I independently developed based on an existing concept.
+
 Name : Sai Charan Reddy
