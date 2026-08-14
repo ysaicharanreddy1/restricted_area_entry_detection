@@ -1,6 +1,6 @@
 # Restricted Area Entry Detection System
 
-Use --modified.py-- code
+Use `modified.py` code
 
 ## Language
 
