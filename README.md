@@ -37,6 +37,5 @@ Use `modified.py` code
 
 Modified code folder is uploaded. there i have modified the code and written it in a way that it takes the snapshots and saves it in the same c drive folder where the project is located.
 
-# NOTE : This is a moderate level real-world project that I independently developed based on an existing concept.
 
 Name : Sai Charan Reddy
